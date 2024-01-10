@@ -2,8 +2,6 @@
 
 This project contains tasks for learning to use TypeScript.
 
-## Tasks To Complete
-
 + [x] 0. **Creating an interface for a student**<br/>[task_0/js/main.ts](task_0/js/main.ts) contains a script that meets the following requirements:
   + Write an interface named `Student` that accepts the following elements: `firstName(string)`, `lastName(string)`, `age(number)`, and `location(string)`.
   + Create two students, and create an array named `studentsList` containing the two variables.
